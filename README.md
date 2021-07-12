@@ -1,3 +1,1 @@
-I'm Agil.
-I like code.
-Yay.
+Hello I'm Agil. I am a passionate programmer who loves C++.
